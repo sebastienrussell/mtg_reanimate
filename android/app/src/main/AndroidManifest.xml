@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mtg_reanimate">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="mtg_reanimate"
         android:icon="@mipmap/ic_launcher">
